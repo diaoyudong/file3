@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="mrsoft" uuid="351d9cac-7336-42ab-b92d-1fe5da516d54">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\Python\files\mrsoft.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="103.45.111.35" uuid="3f224510-ac67-4f99-897c-0105d4370d7e">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://103.45.111.35:3306/wordpress</jdbc-url>
+    </data-source>
+  </component>
+</project>
